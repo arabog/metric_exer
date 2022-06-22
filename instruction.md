@@ -6,6 +6,8 @@ Browse to your Prometheus dashboard on port 9090.
 Go to the "Graph tab".
 Take a look at all the options in the dropdown labeled "insert metric at cursor".
 Create a few graphs to see what kind of information you can get. You can find some examples here.
+https://prometheus.io/docs/prometheus/latest/querying/examples/
+
 Create a graph that shows available memory for your EC2 instances with node_exporter running.
 
 
